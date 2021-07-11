@@ -1,2 +1,2 @@
-# Machine-Learning-with-Python-Capstone
-Capstone project for the Coursera course titled Machine Learning with Python
+# Short Hands-on Tutorial on Deep Learning in Tensorflow
+Short set of Jupyter pages showing how to perform various Deep learning tasks in Tensorflow
